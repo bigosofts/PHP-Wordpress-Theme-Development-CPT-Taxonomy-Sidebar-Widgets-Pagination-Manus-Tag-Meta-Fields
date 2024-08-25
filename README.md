@@ -41,7 +41,7 @@ https://atiqlab.bigosofts.com
 ## Screenshots
 
 ![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/Screenshot-from-2024-08-25-09-28-37.png)
-![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/screencapture-atiqlab-bigosofts-2024-08-25-09_35_09.png)
+![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/screencapture-atiqlab-bigosofts.png)
 ![App Screenshot](https://atiqlab.bigosofts.com/wp-content/uploads/2024/08/screencapture-atiqlab-bigosofts-2024-08-25-09_35_09-2.png)
 
 
